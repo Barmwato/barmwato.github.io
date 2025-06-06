@@ -4,12 +4,13 @@ permalink: /
 author_profile: true
 ---
 
-Welcome to my professional portfolio. 
+# Welcome to My Portfolio
 
+Hi, I'm **Collins Barmwato** — an IT Support Specialist with a strong foundation in cybersecurity, holding a BSc in Computer Security and Forensics.
 
-I'm **Collins Barmwato**, a passionate IT Support Specialist with a BSc in Computer Security and Forensics.
+This portfolio showcases a curated collection of my work, including projects, hands-on labs, and professional experience. Whether you're a recruiter, collaborator, or fellow tech enthusiast, I’m glad you're here.
 
-Explore my:
+🔍 **Explore My Work:**
 
 - [Resume]({{ site.baseurl }}/resume/)
 - [Projects]({{ site.baseurl }}/projects/)
