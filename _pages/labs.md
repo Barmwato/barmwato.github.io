@@ -1,10 +1,9 @@
 ---
+title: "🔬Projects"
 permalink: /labs/
 layout: single
 author_profile: true
 ---
-
-# 🔬 Lab Challenges
 
 Below are some of the hands-on labs and challenges I’ve completed as part of my ongoing training and personal practice in cybersecurity, system administration, and networking.
 
