@@ -11,10 +11,10 @@ I'm **Collins Barmwato**, a passionate IT Support Specialist with a BSc in Compu
 
 Explore my:
 
-- [Resume](/resume/)
-- [Projects](/projects/)
-- [Lab Challenges](/labs/)
-- [Contact Info](/contact/)
+- [Resume]({{ site.baseurl }}/resume/)
+- [Projects]({{ site.baseurl }}/projects/)
+- [Labs]({{ site.baseurl }}/labs/)
+- [Contact]({{ site.baseurl }}/contact/)
 
 Thank you for visiting!
 
