@@ -1,5 +1,4 @@
 ---
-title: "Resume"
 layout: single
 permalink: /resume/
 author_profile: true
@@ -46,15 +45,15 @@ author_profile: true
 ## 🛠️ Skills
 
 - Microsoft Azure, Entra ID,
-- IT Support: User application support, troubleshooting, software and hardware support
-- IT Security: Cybersecurity best practices, preventive maintenance, compliance.
-- Systems Administration: Active Directory management, backups, recovery
-- Operating Systems: Windows 7, 8, 10
-- Networking: WLAN/LAN installation and management
-- Programming Languages: Python, Node.js
-- Databases: MySQL
-- Software: Adobe Illustrator, Canva, Meta Business Suite
-- Teamwork
+- **IT Support:** User application support, troubleshooting, software and hardware support
+- **IT Security:** Cybersecurity best practices, preventive maintenance, compliance.
+- **Systems Administration:** Active Directory management, backups, recovery
+- **Operating Systems:** Windows 7, 8, 10
+- **Networking:** WLAN/LAN installation and management
+- **Programming Languages:** Python, Node.js
+- **Databases:** MySQL
+- **Software:** Adobe Illustrator, Canva, Meta Business Suite
+- **Teamwork**
 - Communication
 - Time Management
 - Problem-Solving
