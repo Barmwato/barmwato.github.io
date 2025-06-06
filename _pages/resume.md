@@ -5,7 +5,7 @@ permalink: /resume/
 author_profile: true
 ---
 
-# This is my resume
+
 
 ## 🎓 Education
 -Jaramogi Oginga Odinga University of Science and Technology 
