@@ -56,6 +56,8 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
+  feed:
+  disable: true
 
 author:
   name   : "Collins Barmwato"
