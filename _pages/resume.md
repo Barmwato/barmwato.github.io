@@ -5,7 +5,7 @@ permalink: /resume/
 author_profile: true
 ---
 
-# Collins Barmwato — Resume
+# This is my resume
 
 ## 🎓 Education
 **Jaramogi Oginga Odinga University of Science and Technology**  
