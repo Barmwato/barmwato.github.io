@@ -1,5 +1,4 @@
 ---
-title: "Projects"
 permalink: /projects/
 layout: single
 author_profile: true
@@ -11,21 +10,18 @@ Below are a few projects I've worked on during my academic journey and professio
 
 ---
 
-## 🔧 Project 1: IT Support Ticketing System (University Final Year Project)
+## Password Analyzer – Final Project
 
-**Description:**  
-Built a web-based ticketing system to streamline IT support for academic institutions.
+**Technologies Used**: Python, HTML, CSS, JavaScript
 
-**Technologies:**  
-- Python (Flask), MySQL, Bootstrap
+A robust Python-based tool for evaluating password strength and providing actionable feedback.
 
-**Key Features:**  
-- User login and ticket submission  
-- Technician assignment dashboard  
-- Status tracking and email alerts
+### 🔑 Features
 
-**Outcome:**  
-Reduced ticket resolution time by enabling centralized issue tracking and response.
+- **Comprehensive Analysis**: Assesses password length, character diversity, common password checks, and entropy.
+- **User-Friendly Interface**: Provides clear and concise feedback to guide users toward stronger passwords.
+- **Customizable**: Tailor password strength criteria and feedback messages.
+- **Secure Password Storage**: Uses password hashing to protect user data.
 
 ---
 
