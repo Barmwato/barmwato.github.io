@@ -1,10 +1,9 @@
 ---
+title: "Let's Connect"
 permalink: /contact/
 layout: single
 author_profile: true
 ---
-
-## Let's Connect
 
 Feel free to reach out to me through any of the following channels:
 
