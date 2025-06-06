@@ -1,13 +1,11 @@
 ---
+title: "Who Am I"
 permalink: /about/
 layout: single
 author_profile: true
 ---
 
-
-Welcome to my professional portfolio.
-
-Highly motivated IT Professional with a BSc in Computer Security and Forensics and over 2 years of IT Support experience. Skilled in troubleshooting hardware, software and network issues, managing systems administration tasks and ensuring IT security compliance. Proven ability to enhance operational efficiency and support end-user productivity.
+I'm a Highly motivated IT Professional with a BSc in Computer Security and Forensics and over 2 years of IT Support experience. Skilled in troubleshooting hardware, software and network issues, managing systems administration tasks and ensuring IT security compliance. Proven ability to enhance operational efficiency and support end-user productivity.
 
 This site is my professional portfolio. You'll find my:
 
