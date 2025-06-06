@@ -18,7 +18,7 @@ email: collinskibor@gmail.com
 description: >- 
   Portfolio website of Collins Barmwato — BSc in Computer Security and Forensics, 
   IT Support Specialist, Cybersecurity Enthusiast.
- baseurl: ""
+  baseurl: ""
 twitter_username: username
 github_username: username
 minimal_mistakes_skin: default
