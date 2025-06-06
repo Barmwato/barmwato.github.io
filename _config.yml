@@ -52,12 +52,10 @@ include:
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
-  - jekyll-gist
+  #- jekyll-gist
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
-feed:
-  disable: true
 
 author:
   name   : "Collins Barmwato"
