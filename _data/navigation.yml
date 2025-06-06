@@ -1,6 +1,8 @@
 main:
   - title: "Home"
     url: /
+  - title: "About"
+    url: /about/
   - title: "Resume"
     url: /resume/
   - title: "Projects"
@@ -9,3 +11,4 @@ main:
     url: /labs/
   - title: "Contact"
     url: /contact/
+
