@@ -1,10 +1,9 @@
 ---
+title: "Projects"
 permalink: /projects/
 layout: single
 author_profile: true
 ---
-
-# 💻 Projects
 
 Below are a few projects I've worked on during my academic journey and professional growth in IT and cybersecurity.
 
