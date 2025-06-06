@@ -112,3 +112,19 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+
+  # Navigation
+nav:
+  - title: "Home"
+    url: /
+  - title: "About"
+    url: /about/
+  - title: "Resume"
+    url: /resume/
+  - title: "Projects"
+    url: /projects/
+  - title: "Labs"
+    url: /labs/
+  - title: "Contact"
+    url: /contact/
+
