@@ -21,7 +21,7 @@ description: >-
   baseurl: ""
 twitter_username: username
 github_username: username
-minimal_mistakes_skin: air
+minimal_mistakes_skin: dark
 search: true
 
 # Build settings
