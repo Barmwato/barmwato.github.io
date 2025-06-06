@@ -5,6 +5,8 @@ permalink: /
 author_profile: true
 ---
 
+
+
 Hi, I'm **Collins Barmwato** — an IT Support Specialist with a strong foundation in cybersecurity, holding a BSc in Computer Security and Forensics.
 
 This portfolio showcases a curated collection of my work, including projects, hands-on labs, and professional experience. Whether you're a recruiter, collaborator, or fellow tech enthusiast, I’m glad you're here.
