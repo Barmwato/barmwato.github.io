@@ -1,10 +1,9 @@
 ---
+title: "Welcome to My Portfolio"
 layout: single
 permalink: /
 author_profile: true
 ---
-
-# Welcome to My Portfolio
 
 Hi, I'm **Collins Barmwato** — an IT Support Specialist with a strong foundation in cybersecurity, holding a BSc in Computer Security and Forensics.
 
