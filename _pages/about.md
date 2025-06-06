@@ -26,10 +26,10 @@ My certifications include:
 
 This site is my professional portfolio. You'll find my:
 
-- [Resume](/resume/)
-- [Projects](/projects/)
-- [Lab Challenges](/labs/)
-- [Contact Information](/contact/)
+- [Resume](https://barmwato.github.io/cbarmwato.github.io/resume/)
+- [Projects](https://barmwato.github.io/cbarmwato.github.io/projects/)
+- [Lab Challenges](https://barmwato.github.io/cbarmwato.github.io/labs/)
+- [Contact Information](https://barmwato.github.io/cbarmwato.github.io/contact/)
 
 Feel free to explore or [connect with me on LinkedIn](https://www.linkedin.com/in/collins-barmwato)!
 
