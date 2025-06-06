@@ -5,11 +5,10 @@ layout: single
 author_profile: true
 ---
 
-## About Me
 
 Welcome to my professional portfolio.
 
-I'm **Collins Barmwato**, an IT Support Specialist with a BSc in Computer Security and Forensics. I am passionate about technology, cybersecurity, and solving real-world problems through hands-on solutions and proactive support.
+Highly motivated IT Professional with a BSc in Computer Security and Forensics and over 2 years of IT Support experience. Skilled in troubleshooting hardware, software and network issues, managing systems administration tasks and ensuring IT security compliance. Proven ability to enhance operational efficiency and support end-user productivity.
 
 This site is my professional portfolio. You'll find my:
 
