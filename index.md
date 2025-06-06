@@ -1,12 +1,12 @@
 ---
 layout: home
-title: Home
 permalink: /
 author_profile: true
-entries_layout: none
 ---
 
-Welcome to my professional portfolio.  
+Welcome to my professional portfolio. 
+
+
 I'm **Collins Barmwato**, a passionate IT Support Specialist with a BSc in Computer Security and Forensics.
 
 Explore my:
