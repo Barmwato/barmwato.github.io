@@ -3,7 +3,7 @@ layout: home
 title: Home
 permalink: /
 author_profile: true
-show_posts: false
+entries_layout: none
 ---
 
 Welcome to my professional portfolio.  
