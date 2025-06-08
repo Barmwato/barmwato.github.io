@@ -9,7 +9,7 @@ Below are a few projects I've worked on during my academic journey and professio
 
 ---
 
-## Password Analyzer – Final Project
+## Password Analyzer
 
 **Technologies Used**: Python, HTML, CSS, JavaScript
 
