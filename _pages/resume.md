@@ -19,6 +19,16 @@ author_profile: true
 
 ## 💼 Work Experience
 
+### ICT Helpdesk & Field Support Officer — Amadeus East Africa
+- Provided first-level support via phone, email, and ticketing system, ensuring timely issue resolution.
+- Effectively troubleshot hardware, software, and network issues to minimize user downtime.
+- Installed and configured software and updates to maintain system reliability and security.
+- Escalated unresolved issues appropriately to ensure smooth support workflows.
+- Set up network points and configured devices like LTE routers and MikroTiks for stable connectivity.
+- Deployed and maintained desktops, laptops, and peripherals to support daily operations.
+- Performed on-site hardware troubleshooting to restore functionality quickly.
+- Monitored network performance and addressed outages to maintain service continuity.
+
 ### IT Support Specialist — Spiegel Design Group Ltd
 - Streamlined email and website configurations, enhancing user experience and operational efficiency.
 - Provided comprehensive software and hardware support, resolving technical issues and ensuring smooth system operations.
@@ -50,7 +60,7 @@ author_profile: true
 - **IT Security:** Cybersecurity best practices, preventive maintenance, compliance.
 - **Systems Administration:** Active Directory management, backups, recovery
 - **Operating Systems:** Windows 7, 8, 10
-- **Networking:** WLAN/LAN installation and management
+- **Networking:** WLAN/LAN installation and management,Mikrotiks,Winbox
 - **Programming Languages:** Python, Node.js
 - **Databases:** MySQL
 - **Software:** Adobe Illustrator, Canva, Meta Business Suite
