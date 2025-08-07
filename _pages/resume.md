@@ -8,7 +8,7 @@ author_profile: true
 
 
 ## 🎓 Education
--Jaramogi Oginga Odinga University of Science and Technology 
+- Jaramogi Oginga Odinga University of Science and Technology 
 **BSc. Computer Security and Forensics** (2014–2017)
 - Tenges Boys High School
 **Kenya Certificate of Secondary Education** (2009-2012)
