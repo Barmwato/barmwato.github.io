@@ -21,7 +21,7 @@ description: >-
   baseurl: ""
 twitter_username: username
 github_username: username
-minimal_mistakes_skin: neon
+minimal_mistakes_skin: mint
 search: true
 
 # Build settings
