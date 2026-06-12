@@ -1,0 +1,104 @@
+---
+# Front matter block lines tell Jekyll to compile SCSS to production CSS
+---
+
+/* ==========================================================================
+   CYBERSECURITY CONFIG: MONOCHROME & MATRIX THEME FOR COLLINS BARMWATO
+   ========================================================================== */
+
+/* Core Theme Color Overrides */
+$background-color:       #0d1117 !default; // Deep terminal black-gray
+$text-color:             #c9d1d9 !default; // High-readability clean white-gray
+$muted-text-color:       #8b949e !default; // Code comment gray
+$primary-color:          #00ff66 !default; // Terminal bright matrix green
+$link-color:             #58a6ff !default; // Cyber blue for clean reference links
+
+/* Structural Theme Colors */
+$border-color:           #21262d !default; // Subtle circuitry border grid
+$code-background-color:  #161b22 !default; // Distinct shell sandbox console bg
+
+/* Typography Adjustments */
+$global-font-family:    -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif !default;
+$header-font-family:    "SFMono-Regular", Consolas, "Liberation Mono", Menlo, Courier, monospace !default;
+$caption-font-family:   "SFMono-Regular", Consolas, "Liberation Mono", Menlo, Courier, monospace !default;
+
+/* Import the parent theme engine styles */
+@import "minimal-mistakes";
+
+/* ==========================================================================
+   CUSTOM INJECTED TECH STYLES
+   ========================================================================== */
+
+/* Give headings a clean command-line appearance */
+h1, h2, h3, h4, h5, h6 {
+  font-family: $header-font-family;
+  color: #ffffff;
+  border-bottom: 1px solid #21262d;
+  padding-bottom: 0.2em;
+  
+  &::before {
+    content: "root@barmwato:~# ";
+    color: $primary-color;
+    font-size: 0.7em;
+    font-weight: normal;
+    opacity: 0.8;
+  }
+}
+
+/* Remove command prompt string from main title h1 page headings */
+.page__title::before {
+  content: "" !important;
+}
+
+/* Format inline code tags to look like digital evidence snippets */
+code {
+  color: #ff7b72 !important; /* Cyber security warning orange-pink */
+  background-color: #21262d !important;
+  padding: 0.2em 0.4em;
+  border-radius: 6px;
+  font-size: 85%;
+}
+
+/* Format full syntax block containers (e.g., terminal output logs) */
+div.highlighter-rouge, pre.highlight {
+  border: 1px solid #30363d;
+  border-left: 4px solid $primary-color; /* Matrix green accent ribbon */
+  border-radius: 6px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.5);
+}
+
+/* Format left sidebar profile information card */
+.sidebar {
+  background: #161b22;
+  border: 1px solid #21262d;
+  border-radius: 6px;
+  padding: 15px;
+  
+  img {
+    border: 2px solid $primary-color; /* Encapsulate bio avatar photo */
+  }
+}
+
+/* Stylize standard hyperlinks */
+a {
+  text-decoration: none;
+  transition: color 0.2s ease-in-out;
+  
+  &:hover {
+    color: $primary-color !important;
+    text-decoration: underline !important;
+  }
+}
+
+/* Turn notice block components into high-visibility threat intel boxes */
+.notice--danger {
+  background-color: rgba(248, 81, 73, 0.1) !important;
+  border-left: 4px solid #f85149 !important;
+  color: #ff7b72 !important;
+}
+
+.notice--success {
+  background-color: rgba(56, 139, 253, 0.1) !important;
+  border-left: 4px solid #388bfd !important;
+  color: #79c0ff !important;
+}
