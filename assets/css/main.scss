@@ -29,20 +29,12 @@ $caption-font-family:   "SFMono-Regular", Consolas, "Liberation Mono", Menlo, Co
    CUSTOM INJECTED TECH STYLES
    ========================================================================== */
 
-/* Give headings a clean command-line appearance */
+/* Give headings a clean tech layout appearance without the terminal text */
 h1, h2, h3, h4, h5, h6 {
   font-family: $header-font-family;
   color: #ffffff;
   border-bottom: 1px solid #21262d;
   padding-bottom: 0.2em;
-  
-  &::before {
-    content: "root@barmwato:~# ";
-    color: $primary-color;
-    font-size: 0.7em;
-    font-weight: normal;
-    opacity: 0.8;
-  }
 }
 
 /* Remove command prompt string from main title h1 page headings */
