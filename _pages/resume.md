@@ -55,7 +55,7 @@ author_profile: true
 
 ## 🛠️ Skills
 
-- Microsoft Azure, Entra ID,
+- Microsoft Azure, Entra ID,Microsoft Sentinel
 - **IT Support:** User application support, troubleshooting, software and hardware support
 - **IT Security:** Cybersecurity best practices, preventive maintenance, compliance.
 - **Systems Administration:** Active Directory management, backups, recovery
@@ -74,7 +74,8 @@ author_profile: true
 
 ## 📜 Certifications
 
-- Microsoft Certified: Security, Compliance & Identity Fundamentals  
+- Microsoft Certified: Security, Compliance & Identity Fundamentals
+- Security Operations Center Analyst - Cybershujaa  
 - Certified in Cybersecurity – ISC²  
 - Google IT Support – Coursera  
 - Google Project Management – Coursera  
