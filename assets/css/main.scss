@@ -6,16 +6,17 @@
    CYBERSECURITY CONFIG: MONOCHROME & MATRIX THEME FOR COLLINS BARMWATO
    ========================================================================== */
 
-/* Core Theme Color Overrides */
-$background-color:       #0d1117 !default; // Deep terminal black-gray
-$text-color:             #c9d1d9 !default; // High-readability clean white-gray
-$muted-text-color:       #8b949e !default; // Code comment gray
-$primary-color:          #00ff66 !default; // Terminal bright matrix green
-$link-color:             #58a6ff !default; // Cyber blue for clean reference links
+/* Core Theme Color Overrides - Cyber Slate variant */
+$background-color:       #0B0F19 !default; // Deep cosmic slate navy
+$text-color:             #E2E8F0 !default; // Crisp, clean off-white
+$muted-text-color:       #64748B !default; // Muted steel blue-grey
+$primary-color:          #00F5A0 !default; // Electric mint/neon teal
+$link-color:             #38BDF8 !default; // Vibrant sky blue
 
 /* Structural Theme Colors */
-$border-color:           #21262d !default; // Subtle circuitry border grid
-$code-background-color:  #161b22 !default; // Distinct shell sandbox console bg
+$border-color:           #1E293B !default; // Sleek circuit grid lines
+$code-background-color:  #111827 !default; // Dark console sandbox bg
+
 
 /* Typography Adjustments */
 $global-font-family:    -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif !default;
